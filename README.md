@@ -1,6 +1,7 @@
 # Mojo Playground
 
-This is a project for exploring [Mojo](https://docs.modular.com/mojo/).
+This is a project for exploring the [Mojo](https://docs.modular.com/mojo/)
+programming language.
 
 ## Prerequisites
 
